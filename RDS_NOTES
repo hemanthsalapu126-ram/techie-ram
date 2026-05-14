@@ -14,7 +14,7 @@ Types of databases:
 ==================
 Relational and Non-Relational database
 
-Relational database stored information in tables.
+Relational database stored information in tables...
 Often, these tables have shared information between them, causing a relationship to form between tables. 
 This is where a relational database gets its name from.
 Example: MySql, Oracle, MariaDB, Postgres and MS-SQL
