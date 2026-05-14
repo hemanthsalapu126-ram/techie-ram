@@ -7,7 +7,7 @@ You can resize cpu, memory, storage whenever you want.
 You can use regular databases in RDS like mysql, mariaDB, postgre SQL, Microsoft SQL, oracle and Amazon aurora DB.
 You can setup your databases in different AZ. It will replicate the entire DB. ...
 In case, if your db in an AZ is failed.
-Managed Database instance for one or more databases.
+Managed Database instance for one or more databases...
 After creating an RDS DB, it gives an endpoint. With this endpoint you can connect to your DB from EC2 instance.
 
 Types of databases:
